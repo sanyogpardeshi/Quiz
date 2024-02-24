@@ -1,0 +1,192 @@
+[
+  {
+    "id": "quiz1",
+    "title": "Sample Quiz 1",
+    "subtitle": "Test your knowledge 1",
+    "time": "10",
+    "questionList": [
+      {
+        "question": "What is the capital of France?",
+        "options": [
+          "London",
+          "Paris",
+          "Berlin",
+          "Rome"
+        ],
+        "correct": "Paris"
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "options": [
+          "Venus",
+          "Jupiter",
+          "Mars",
+          "Earth"
+        ],
+        "correct": "Jupiter"
+      },
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": [
+          "William Shakespeare",
+          "Charles Dickens",
+          "Jane Austen",
+          "Mark Twain"
+        ],
+        "correct": "William Shakespeare"
+      }
+    ]
+  },
+  {
+    "id": "quiz2",
+    "title": "Sample Quiz 2",
+    "subtitle": "Test your knowledge 2",
+    "time": "15",
+    "questionList": [
+      {
+        "question": "What is the capital of Japan?",
+        "options": [
+          "Tokyo",
+          "Beijing",
+          "Seoul",
+          "Bangkok"
+        ],
+        "correct": "Tokyo"
+      },
+      {
+        "question": "Who discovered penicillin?",
+        "options": [
+          "Marie Curie",
+          "Louis Pasteur",
+          "Alexander Fleming",
+          "Albert Einstein"
+        ],
+        "correct": "Alexander Fleming"
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "options": [
+          "H2O",
+          "CO2",
+          "N2O",
+          "O2"
+        ],
+        "correct": "H2O"
+      }
+    ]
+  },
+  {
+    "id": "quiz3",
+    "title": "Sample Quiz 3",
+    "subtitle": "Test your knowledge 3",
+    "time": "12",
+    "questionList": [
+      {
+        "question": "What is the capital of Brazil?",
+        "options": [
+          "Buenos Aires",
+          "Rio de Janeiro",
+          "Brasília",
+          "São Paulo"
+        ],
+        "correct": "Brasília"
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": [
+          "Vincent van Gogh",
+          "Leonardo da Vinci",
+          "Pablo Picasso",
+          "Michelangelo"
+        ],
+        "correct": "Leonardo da Vinci"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+          "Au",
+          "Ag",
+          "Fe",
+          "Cu"
+        ],
+        "correct": "Au"
+      }
+    ]
+  },
+  {
+    "id": "quiz4",
+    "title": "Sample Quiz 4",
+    "subtitle": "Test your knowledge 4",
+    "time": "8",
+    "questionList": [
+      {
+        "question": "What is the largest mammal in the world?",
+        "options": [
+          "Elephant",
+          "Giraffe",
+          "Blue whale",
+          "Hippopotamus"
+        ],
+        "correct": "Blue whale"
+      },
+      {
+        "question": "Who is the author of 'To Kill a Mockingbird'?",
+        "options": [
+          "J.K. Rowling",
+          "Harper Lee",
+          "Ernest Hemingway",
+          "John Steinbeck"
+        ],
+        "correct": "Harper Lee"
+      },
+      {
+        "question": "What is the chemical symbol for iron?",
+        "options": [
+          "Fe",
+          "Ir",
+          "In",
+          "Au"
+        ],
+        "correct": "Fe"
+      }
+    ]
+  },
+  {
+    "id": "quiz5",
+    "title": "Sample Quiz 5",
+    "subtitle": "Test your knowledge 5",
+    "time": "20",
+    "questionList": [
+      {
+        "question": "What is the longest river in the world?",
+        "options": [
+          "Nile",
+          "Amazon",
+          "Yangtze",
+          "Mississippi"
+        ],
+        "correct": "Nile"
+      },
+      {
+        "question": "Who developed the theory of relativity?",
+        "options": [
+          "Isaac Newton",
+          "Albert Einstein",
+          "Galileo Galilei",
+          "Stephen Hawking"
+        ],
+        "correct": "Albert Einstein"
+      },
+      {
+        "question": "What is the chemical symbol for oxygen?",
+        "options": [
+          "O2",
+          "H2O",
+          "CO2",
+          "NO2"
+        ],
+        "correct": "O2"
+      }
+    ]
+  }
+]
